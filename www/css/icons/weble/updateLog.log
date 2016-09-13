@@ -1,0 +1,13 @@
+Tue Nov  4 15:57:07 CET 2014
+stopping server
+Shutting down server
+[32minfo[39m:    Forever stopped process:
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m                      [90mscript[39m    [37mforever[39m [37mpid[39m  [35mlogfile[39m                 [33muptime[39m      
+[0] QJQF [90m/root/.nvm/v0.10.29/bin/node[39m [90mserver.js[39m 3100    3102 [35m/root/.forever/QJQF.log[39m [33m0:0:0:9.904[39m 
+update to revision 156
+At revision 156.
+success
+
+restart server
+Starting server
+[32minfo[39m:    Forever processing file: [90mserver.js[39m
